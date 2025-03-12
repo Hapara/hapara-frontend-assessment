@@ -4,8 +4,9 @@
 
 ## Requirements
 
-Build the above dashboard using any front-end framework of your choice that displays student tiles retrieved from a mocked endpoint.
-Each tile should display:
+Build the above dashboard using any front-end library or framework. Feel free to include any other tools, libraries, or utilities that help you.
+
+The dashboard should display student tiles retrieved from a [mocked endpoint](#mock-json-server), with each tile showing:
 
 - Student's name
 - Connected status
