@@ -13,7 +13,7 @@ The dashboard should display student tiles retrieved from a [mocked endpoint](#m
 - Timestamp in local time,
 - Screenshot provided in `base64` by the mock endpoint
 
-Only **online** students should be interactive. When selected, a drawer should open displaying the student's current URL and browsing history.
+Only **online** students should be interactive and have their details prefetched. Selecting an online student opens a drawer displaying their current URL and browsing history.
 
 ## Expectations
 
